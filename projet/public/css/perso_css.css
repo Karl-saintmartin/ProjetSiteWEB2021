@@ -1,0 +1,21 @@
+
+body {
+    background-color: white;
+}
+
+.container {
+    margin-top: 80px;
+    background-color: lemonchiffon;
+    width: 90%;
+}
+
+.jumbotron {
+  background-color:plum;
+}
+
+#divGraph {
+    max-width: 60%;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 50px;
+}
